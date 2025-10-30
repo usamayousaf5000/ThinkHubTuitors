@@ -9,7 +9,7 @@ function App() {
 
   return (
     <div className="relative min-h-screen flex items-center justify-center overflow-hidden">
-      <Header title="thinkhubtutors" />
+      <Header title="Think Hub Tutors" />
       {/* Floating shapes */}
       <FloatingShapes />
 

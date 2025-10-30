@@ -1,4 +1,4 @@
-export default function Header({ title = 'thinkhubtutors' }) {
+export default function Header({ title = 'Think Hub Tutors' }) {
   return (
     <header className="fixed top-0 left-0 right-0 z-20 bg-slate-900/80 backdrop-blur border-b border-white/10">
       <div className="mx-auto max-w-7xl px-4 sm:px-6">
