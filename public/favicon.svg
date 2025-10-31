@@ -7,10 +7,9 @@
   <!-- Background circle to ensure a round shape with subtle ring -->
   <circle cx="32" cy="32" r="32" fill="transparent" />
   <g clip-path="url(#circleClip)">
-    <!-- Uses image from public/ as the favicon source -->
-    <image href="/logo.jpeg" x="0" y="0" width="64" height="64" preserveAspectRatio="xMidYMid slice" />
+    <!-- Uses logo from public/ as the favicon source -->
+    <image href="/THT.jpeg" x="0" y="0" width="64" height="64" preserveAspectRatio="xMidYMid slice" />
   </g>
   <circle cx="32" cy="32" r="30" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="2" />
 </svg>
-
 
