@@ -26,11 +26,11 @@ export default function ComingSoon({ onContactClick }) {
       <p className="mt-6 text-slate-300">We are building something amazing</p>
 
       <div className="mt-8 sm:mt-10 flex items-center justify-center gap-5 sm:gap-6 text-slate-200">
-        <DatePill label="1" />
+        <DatePill label="14" />
         <span className="text-indigo-300/70">:</span>
-        <DatePill label="Dec" />
+        <DatePill label="Feb" />
         <span className="text-indigo-300/70">:</span>
-        <DatePill label="2025" />
+        <DatePill label="2026" />
       </div>
 
       <p className="mt-8 text-lg sm:text-xl text-slate-300/90">Get in touch with us for early access and updates</p>
