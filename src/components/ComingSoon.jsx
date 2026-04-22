@@ -28,7 +28,7 @@ export default function ComingSoon({ onContactClick }) {
       <p className="mt-6 text-black-600 font-medium">We are building something amazing</p>
 
       <div className="mt-8 sm:mt-10 flex items-center justify-center gap-5 sm:gap-6 text-zinc-800">
-        <DatePill label="1" />
+        <DatePill label="27" />
         <span className="text-orange-500 text-2xl font-light">:</span>
         <DatePill label="April" />
         <span className="text-orange-500 text-2xl font-light">:</span>
